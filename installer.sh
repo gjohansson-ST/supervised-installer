@@ -13,6 +13,7 @@ warn "Home Assistant as a VM or run Home Assistant Core"
 warn "via a Docker container."
 warn ""
 
+
 ARCH=$(uname -m)
 DOCKER_BINARY=/usr/bin/docker
 DOCKER_REPO=homeassistant
